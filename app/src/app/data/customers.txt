@@ -1,0 +1,2 @@
+TELEFONSZAM;VEZETEKNEV;KERESZTNEV;LAKCIM;DIJCSOMAG
+--------------------------------------------------

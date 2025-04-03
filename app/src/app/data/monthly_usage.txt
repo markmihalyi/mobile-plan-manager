@@ -1,0 +1,2 @@
+TELEFONSZAM;KULDOTT SMSEK;LEBESZELT PERCEK
+------------------------------------------
